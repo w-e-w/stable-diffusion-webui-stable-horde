@@ -70,6 +70,7 @@
     - **Clazy** (v1): Generates clay-like figures
     - **Comic-Diffusion** (v2): Western Comic book style
     - **Concept Sheet** (valpha): This model is just the first dreambooth iteration for concept-sheet/old-books style. Based on SD 2.1
+    - **Counterfeit** (v2.0): Counterfeit is anime style Stable Diffusion model
     - **Cyberpunk Anime Diffusion** (v1): Cyberpunk anime characters
     - **DGSpitzer Art Diffusion** (v1): Dreambooth model based on Vintedois, trained on a dataset of DGSpitzer art. Styles included are outline, sketch, anime, painting and landscape
     - **Dan Mumford Style** (v2): Model trained with a dataset of DanMumford Style images, courtesy of Flonix
@@ -116,10 +117,12 @@
     - **Moedel** (v2): Moe.del produces cute female characters. It is also a mix of Stable Diffusion 1.4/1.5 in different proportions so you can challenge it to generate for you pretty much anything using regular SD prompts (like cute dogs, cats etc.)
     - **MoistMix** (v1.0): A do (almost) anything model
     - **Nitro Diffusion** (v1): Multi-Style model trained on Arcane, Archer and Mo-Di
+    - **Openniji** (v1.0): The Stable Diffusion model trained on Nijijourney images
     - **PFG** (v1.11): NSFW Model for realistic and Hentai images
     - **PPP** (v1.0): PPP is a realistic model merge, tested and tweaked for human females. Mostly based on NSFW models
     - **Papercut Diffusion** (v1): Stable Diffusion fine tuned on Paper cut images
     - **Papercutcraft** (v1): Paper Cut Craft is a fine tuned Stable Diffusion model trained on Midjourney images
+    - **Pastel Mix** (v1): The model is trained with beautiful, artist-agnostic watercolor images using the midjourney method
     - **Poison** (v1): Anything Diffusion fine-tuned to produce high-quality realistic anime styled images
     - **Pokemon3D** (v1): This model was trained on Gen 1-8 Pokemon low poly renders
     - **PortraitPlus** (v1.0): This is a dreambooth model trained on a diverse set of close to medium range portraits of people.
@@ -147,6 +150,7 @@
     - **Valorant Diffusion** (v1.0): This model was trained on the Valorant agents splash arts, and some extra arts on the official website
     - **Van Gogh Diffusion** (v1): Stable Diffusion model trained on screenshots from the film Loving Vincent, best results with k_euler sampler
     - **Vintedois Diffusion** (v0.1): Vintedois (22h) Diffusion model trained by Predogl and piEsposito with open weights, configs and prompts (as it should be).  This model was trained on a large amount of high quality images with simple prompts to generate beautiful images without a lot of prompt engineering.
+    - **Vivid Watercolors** (v1): The model is trained with beautiful, artist-agnostic watercolor images using the midjourney method
     - **Voxel Art Diffusion** (v1): Stable Diffusion fine-tuned on voxel art style
     - **Wavyfusion** (v1): dreambooth model trained on a very diverse dataset ranging from photographs to paintings
     - **Xynthii-Diffusion** (v1): Xynthii-Diffusion (cyclops monster girls)
