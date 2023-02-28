@@ -383,6 +383,7 @@ class Main(SettingsManager, scripts.Script):
             },
             "r2": False
         }
+
         self.load_settings()
 
         if p.batch_size > 1:
@@ -394,6 +395,8 @@ class Main(SettingsManager, scripts.Script):
         if not self.is_img2img or p.image_mask is None:
             if self.is_img2img:
                 payload["params"]["denoising_strength"] = p.denoising_strength
+            elif p.enable_hr:
+                payload["params"]["hires_fix"] = True
 
             if model != "Stable Diffusion 2 Depth":
                 payload["params"]["sampler_name"] = self.SAMPLERS.get(p.sampler_name)
