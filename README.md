@@ -4,10 +4,8 @@
 ## Features
 
 - **txt2img**, **img2img**, **depth2img**, **pix2pix**, **inpaint** and **interrogation** (img2txt)
-    - *Outpaint coming soon*
 - **SFW and NSFW generations**
 - **Share generated images with [LAION](https://laion.ai) for improving their dataset**
-    - *Aesthetic image rating coming soon*
 - <details><summary>Base models:</summary>
 
     - **stable_diffusion_1.4** (v1.4)
