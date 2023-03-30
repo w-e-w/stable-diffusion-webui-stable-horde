@@ -66,7 +66,9 @@ class Main(SettingsManager, scripts.Script):
         "DPM solver": "dpmsolver",
         "DPM solver Karras": "dpmsolver",
         "DPM++ SDE": "k_dpmpp_sde",
-        "DPM++ SDE Karras": "k_dpmpp_sde"
+        "DPM++ SDE Karras": "k_dpmpp_sde",
+        "DDIM": "DDIM",
+        "DDIM Karras": "DDIM"
     }
     POST_PROCESSINGS = {"CodeFormers (Face restoration)", "GFPGAN (Face restoration)", "RealESRGAN_x4plus (Upscaling)"}
 
