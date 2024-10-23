@@ -1,6 +1,13 @@
 # Stable Horde for Web UI
 [Stable Horde](https://stablehorde.net) client for AUTOMATIC1111's [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
+## Notice
+This extension is not maintained the original author [@natanjunges](https://github.com/natanjunges) [has lost interest](https://github.com/AUTOMATIC1111/stable-diffusion-webui-extensions/pull/380#issuecomment-2433496833) in this project and has deleted the original repository.
+
+This repository is a re-uploaded fork up to the latest commit from the original repository, to allow easy access to this extension for those who wants it.
+
+I'm just uploading and providing access but have no intention of maintaining this project if someone wish to continue this project please make contact.
+
 ## Features
 
 - **txt2img**, **img2img**, **depth2img**, **pix2pix**, **inpaint** and **interrogation** (img2txt)
